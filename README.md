@@ -15,7 +15,4 @@ and then launch it:
 ```
 Generated sequence will be written into `result.txt` file in same directory.
 ## Testing generated sequence
-To test generated sequence you need to clone and install NIST Statistical Test Suite https://github.com/terrillmoore/NIST-Statistical-Test-Suite.  
-  
-For example, file `report.txt` contains results of testing 10^7 byte sequence, generated with key 0x0000000000000031.
-Amount of bit streams = 10, length of bit stream = 10^6.
+To test generated sequence you need to clone and install NIST Statistical Test Suite https://github.com/terrillmoore/NIST-Statistical-Test-Suite.
